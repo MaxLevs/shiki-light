@@ -977,8 +977,8 @@ select{
 }
 .b-feedback > .marker-positioner::after {
     position: absolute;
-    font-family: 'Material Icons';
-    content: 'error_outline';
+    font-family: 'Material Icons Outlined';
+    content: 'report';
     font-size: 30px;
     padding: 5px;
     top: 0;
